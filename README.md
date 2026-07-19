@@ -4,8 +4,7 @@ Every Wall Has a Story
 
 > **Every wall tells a story. Every journey becomes wearable art.**
 
-![Banner](5ac34e0d-2f3a-4660-b213-90c0e0300717.png)
-
+![Banner2(12776429-9e0c-440b-9ecd-f4df02ac241b.png)
 ---
 
 # About
@@ -267,3 +266,5 @@ Brazil 🇧🇷 | Spain 🇪🇸
 ---
 
 > "The world is already an art gallery. We simply help people wear it."
+
+![Banner](5ac34e0d-2f3a-4660-b213-90c0e0300717.png)
