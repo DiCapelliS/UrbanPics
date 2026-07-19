@@ -4,7 +4,7 @@ Every Wall Has a Story
 
 > **Every wall tells a story. Every journey becomes wearable art.**
 
-![Banner2(12776429-9e0c-440b-9ecd-f4df02ac241b.png)
+![Banner](12776429-9e0c-440b-9ecd-f4df02ac241b.png)
 ---
 
 # About
