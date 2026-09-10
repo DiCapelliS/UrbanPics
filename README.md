@@ -410,4 +410,6 @@ Cyberpunk MusQ
 <img width="1024" height="1536" alt="c35612b8-dfd8-4d34-b1a8-2ef0cbe4c1e0" src="https://github.com/user-attachments/assets/6ffff3f7-9d36-427d-aaa7-99179bd1f69b" />
 Mural Madrid
 <img width="1024" height="1536" alt="838fb0e3-b8e4-4a45-bafc-d05e91fbc0c0" src="https://github.com/user-attachments/assets/def6a31f-0feb-486b-9861-08470e419e47" />
+Plaza del Sol Madrid
+<img width="1229" height="1536" alt="1000009071" src="https://github.com/user-attachments/assets/1ff8dfb3-1e3d-4e31-875c-157e0819ac4e" />
 
