@@ -384,3 +384,7 @@ Validação	5 vendas ou 20 respostas positivas
 
 Use a lógica de “se não fiz, é porque decidi não priorizar”. A cada item não checado, pergunte:
 ➡️ “O que está me travando? Como posso tornar esse passo mais simples?”
+
+Arte
+Paris 
+<img width="1024" height="1536" alt="e62a0b8d-cd28-4a9d-a630-6b05d7e9cadf" src="https://github.com/user-attachments/assets/0319f33c-48b5-4561-8ed7-bae3ee1e856c" />
