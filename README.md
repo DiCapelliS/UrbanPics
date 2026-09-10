@@ -266,6 +266,8 @@ Brazil 🇧🇷 | Spain 🇪🇸
 
 ✔ Amazon Merch
 
+✔ Gelato 
+
 ---
 
 > "The world is already an art gallery. We simply help people wear it."
