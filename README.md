@@ -118,7 +118,9 @@ Countries
 - Italy
 
 ---
+## Others
 
+---
 ## 🎨 Murals Project
 
 Transformation of public murals into artistic fashion.
