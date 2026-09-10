@@ -412,4 +412,10 @@ Mural Madrid
 <img width="1024" height="1536" alt="838fb0e3-b8e4-4a45-bafc-d05e91fbc0c0" src="https://github.com/user-attachments/assets/def6a31f-0feb-486b-9861-08470e419e47" />
 Plaza del Sol Madrid
 <img width="1229" height="1536" alt="1000009071" src="https://github.com/user-attachments/assets/1ff8dfb3-1e3d-4e31-875c-157e0819ac4e" />
+Mural Angels Bratislava
+<img width="1024" height="1024" alt="2f1c6ca0-ca77-4c4e-82f8-c8da385f795f" src="https://github.com/user-attachments/assets/1d87bf2e-636e-4d35-a63e-f0f211b35de5" />
+Mural BratislavaII
+<img width="1024" height="1536" alt="994718a3-b4fd-4c0b-b185-c4398e4cf30f" src="https://github.com/user-attachments/assets/9244d134-50b6-4fec-92e1-a668edf57d43" />
+Mural Jacareí Brasil
+<img width="1024" height="1536" alt="3a8b9291-0782-4e0f-8d8e-f5c88631cf6d" src="https://github.com/user-attachments/assets/f2810e17-d110-4c46-85b9-3be273df683c" />
 
