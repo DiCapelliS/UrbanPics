@@ -347,3 +347,39 @@ Plataforma	Loja POD gratuita + Instagram
 Estratégia de marketing	Reels comparativos e storytelling
 Monetização	Pré-venda com botão de interesse
 Validação	5 vendas ou 20 respostas positivas
+
+| Etapa | Item | Status (✅/❌) | Data Concluída | Observações |
+| ----- | ---- | ------------ | -------------- | ----------- |
+✅ CHECKLIST DE EXECUÇÃO – PROJETO PRINT ON DEMAND AUTORAL
+📸 1. COLETA CRIATIVA (CAPTURA & CURADORIA)
+ Selecionar 5 fotos autorais com potencial visual (murais, cenas urbanas, religiosos, etc.)
+ Criar pasta “Seleção Bruta”
+ Criar pasta “Selecionadas p/ Estilo 1” (vetorial, colagem ou AI)
+ Dar um nome provisório a cada imagem (ex: Anjo de Bratislava, Cyber-Mariachi)
+🎨 2. TRANSFORMAÇÃO ARTÍSTICA
+ Escolher o estilo visual principal (ex: vetorial bold, colagem digital, sketch+AI)
+ Converter as 3 primeiras imagens em arte final (usar IA ou app gráfico)
+ Exportar em alta (PNG transparente e mockup .JPG)
+ Salvar versões com e sem assinatura digital
+🧠 3. STORYTELLING & CONCEITO
+ Criar 1 nome forte para a primeira coleção (ex: Divindades Urbanas)
+ Escrever uma mini história para cada arte (máx. 300 caracteres)
+ Definir 3 valores da marca (ex: autenticidade, cultura de rua, espiritualidade pop)
+🛍️ 4. MONTAGEM DA LOJA / VITRINE
+ Criar conta no Printful / Redbubble
+ Integrar com loja gratuita ou página de vendas (Gumroad, Etsy, etc.)
+ Subir os 3 primeiros produtos com mockups realistas
+ Testar visual em camiseta, moletom e pôster
+📢 5. LANÇAMENTO (DROP TESTE)
+ Criar conta de Instagram com feed artístico (não “comercial”)
+ Postar os 3 designs com storytelling e CTA (“qual seu favorito?”)
+ Criar link de pré-venda por 72h com urgência (ex: “somente 20 unidades”)
+ Compartilhar com 5 amigos influentes ou grupos nichados
+📈 6. MÉTRICAS DE VALIDAÇÃO
+ Acompanhar curtidas, comentários e salvamentos no Instagram
+ Medir visitas na loja e cliques no produto
+ Registrar se houve venda, pedido de info ou engajamento espontâneo
+🧠 DICA DE AUTORRESPONSABILIZAÇÃO
+
+Use a lógica de “se não fiz, é porque decidi não priorizar”. A cada item não checado, pergunte:
+➡️ “O que está me travando? Como posso tornar esse passo mais simples?”
